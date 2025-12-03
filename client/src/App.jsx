@@ -5,7 +5,7 @@ import {
 } from 'lucide-react';
 
 // 后端 API 地址 (本地开发时通常是 3001)
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'http://liebaoarticle.zeabur.internal:8080/api';
 
 /**
  * 模拟数据 - 用于快速演示或后端未连接时
